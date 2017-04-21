@@ -1,0 +1,8 @@
+[Activity]
+name = ScorePad
+bundle_id = org.laptop.ScorePadActivity
+class = ScorePadActivity.ScorePadActivity
+icon = activity-scorepad
+activity_version = 1
+host_version = 1
+show_launcher = yes
